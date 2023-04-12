@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - - 🏃 I’m going to meituan-daojia soon, a RD intern
   -->
-- 🏃 I’m used to working for didichuxing-cto, a RD intern
+- 🏃 I’m used to work for didichuxing-cto, a RD intern
 - 💻 I'm currently working for meituan-daojia, a RD intern
 - 🔭 I'm currently working on search and recommendation architecture
 - ......
