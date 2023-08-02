@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - - 🏃 I’m going to meituan-daojia soon, a RD intern
   -->
 - 🏃 I’m used to work for didichuxing-cto, a RD intern
-- 🔭 I'm currently working on search and recommendation architecture
+- 🔭 I'm currently working at Alibaba
 - ......
 
 ![kale's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalew515&show_icons=true&theme=radical)
